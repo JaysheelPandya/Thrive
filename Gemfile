@@ -56,10 +56,10 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem 'devise'
-gem 'stripe'
-gem 'chartkick'
-gem 'groupdate'
-gem 'bootstrap', '~> 5.0'
-gem 'dotenv-rails'  # For managing environment variables
-gem 'sassc-rails'
+gem "devise"
+gem "stripe"
+gem "chartkick"
+gem "groupdate"
+gem "bootstrap," "~> 5.0"
+gem "dotenv-rails"  # For managing environment variables
+gem "sassc-rails"

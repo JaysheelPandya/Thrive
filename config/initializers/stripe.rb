@@ -1,3 +1,3 @@
 # config/initializers/stripe.rb
 
-Stripe.api_key = ENV['STRIPE_SECRET_KEY']
+Stripe.api_key = ENV['sk_test_51H4Df0GC3EO2d4o5kKOJo9FVivPSpkbyBycG8iYBSZw0dvC5TAWrjXk7EODd2kFRvSJFafHsKOmTVtSyTbeRVRfL00KK0v7Lxq']

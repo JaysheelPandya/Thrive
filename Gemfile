@@ -60,6 +60,6 @@ gem "devise"
 gem "stripe"
 gem "chartkick"
 gem "groupdate"
-gem "bootstrap," "~> 5.0"
+gem "bootstrap"
 gem "dotenv-rails"  # For managing environment variables
 gem "sassc-rails"

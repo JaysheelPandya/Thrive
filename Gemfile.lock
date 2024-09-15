@@ -336,7 +336,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootsnap
-  bootstrap (~> 5.0)
+  bootstrap
   brakeman
   capybara
   chartkick
